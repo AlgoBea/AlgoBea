@@ -1,6 +1,8 @@
-# Hi, I'm Beatriz 
+# Hi, I'm Beatriz
 
-> *"Early bird"* from Venezuela 🇻🇪 — Computer Engineering student at UNEG. I spend my free time on sports, having fun with math and turning algorithm problems into a hobby
+> *"Early bird"* from Venezuela 🇻🇪 — Computer Engineering student at UNEG
+>
+> I spend my free time on sports, having fun with math and turning algorithm problems into a hobby
 
 ---
 
@@ -9,16 +11,16 @@
 **Languages**
 
 ![Pascal](https://img.shields.io/badge/Pascal-2C4D7A?style=flat-square&logo=lazarus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
