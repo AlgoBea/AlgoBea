@@ -1,6 +1,6 @@
 # Hi, I'm Beatriz 
 
-> *"Early bird"* from Venezuela 🇻🇪 — I spend my free time on sports, having fun with math and turning algorithm problems into a hobby. Coffee helps too ☕.
+> *"Early bird"* from Venezuela 🇻🇪 — I spend my free time on sports, having fun with math and turning algorithm problems into a hobby. 
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## About My Projects
 
-This space is mostly a playground — the majority of my projects here were built **just for fun and entertainment**. Each one is a small experiment, a challenge I set for myself, or simply something I enjoyed building. Nothing too serious, just a dev having a good time. 🐦
+This space is mostly a playground — the majority of my projects here were built **just for fun and entertainment**. Each one is a small experiment, a challenge I set for myself, or simply something I enjoyed building. Nothing too serious, just a dev having a good time.
 
 ---
 
