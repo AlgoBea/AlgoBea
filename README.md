@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Beatriz 
 
-<!--
-**AlgoBea/AlgoBea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Early bird"* from Venezuela 🇻🇪 — I spend my free time on sports, having fun with math and turning algorithm problems into a hobby. Coffee helps too ☕.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+---
+
+## About My Projects
+
+This space is mostly a playground — the majority of my projects here were built **just for fun and entertainment**. Each one is a small experiment, a challenge I set for myself, or simply something I enjoyed building. Nothing too serious, just a dev having a good time. 🐦
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlgoBea&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoBea&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlgoBea&theme=github-dark-blue&hide_border=true" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Made with ☕ by Beatriz · she/her</sub>
+</p>
