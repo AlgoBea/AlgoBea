@@ -50,5 +50,5 @@ This space is mostly a playground — some projects here are college assignments
 ---
 
 <p align="center">
-  <sub>Made with ☕ by Beatriz · she/her</sub>
+  <sub>Made with ☕ by Me</sub>
 </p>
